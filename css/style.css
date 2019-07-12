@@ -1,0 +1,21 @@
+.navbar-brand{
+    margin-left:1%;
+}
+
+#content{
+    margin-top:2.5%;
+}
+
+.card{
+    margin:1%;
+    padding:1%;
+}
+
+#repost{
+    margin:3% 0 1.5% 2%;
+}
+
+h2{
+    text-align:center;
+    margin:5%;
+}
